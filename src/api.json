@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "miss", "first": "bernice", "last": "kim" },
+      "location": {
+        "street": "8380 forest ln",
+        "city": "wilmington",
+        "state": "idaho",
+        "postcode": 34407,
+        "coordinates": { "latitude": "83.9712", "longitude": "136.1397" },
+        "timezone": { "offset": "+5:45", "description": "Kathmandu" }
+      },
+      "email": "bernice.kim@example.com",
+      "login": {
+        "uuid": "175cd4f3-4d7b-423d-8441-5962b7f4d364",
+        "username": "beautifulfrog635",
+        "password": "corsair",
+        "salt": "1DSjl2dq",
+        "md5": "cd96b84fb51e534ad8dcb06e932f1407",
+        "sha1": "241230e2fae074761eed02be8ad46701f67fe8f8",
+        "sha256": "fd98cb3409335c93e801354fafd4f9ec2d97d2dab08465d1c98910c82f2bd689"
+      },
+      "dob": { "date": "1965-08-27T12:07:44Z", "age": 53 },
+      "registered": { "date": "2004-06-22T21:52:23Z", "age": 15 },
+      "phone": "(492)-823-2753",
+      "cell": "(974)-557-5444",
+      "id": { "name": "SSN", "value": "399-44-8785" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/70.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "9069ad48e190efea",
+    "results": 1,
+    "page": 1,
+    "version": "1.2"
+  }
+}
